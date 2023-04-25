@@ -447,7 +447,7 @@ img.img-fluid.hghg {
     min-height: 12em;
     max-height: 12em;
     object-fit: cover;
-    /* min-width: 100%; */
+   min-width: 100%;
 }
 .banner-6-text {
     transition: all 0.7s ease;
